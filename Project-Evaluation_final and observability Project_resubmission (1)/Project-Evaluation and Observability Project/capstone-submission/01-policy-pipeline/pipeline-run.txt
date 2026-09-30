@@ -1,0 +1,9 @@
+During execution of the validated policy extraction pipeline, the application terminated before processing any documents because the Anthropic client could not authenticate with the API.
+
+The traceback shows that the failure originated when "extract_with_retry()" invoked "client.create()", which internally called the Anthropic Messages API. The request could not be constructed because no authentication credentials were available.
+
+The final exception reported was:
+
+«TypeError: Could not resolve authentication method. Expected one of "api_key", "auth_token", or "credentials" to be configured, or for the "X-Api-Key" or "Authorization" headers to be explicitly omitted.»
+
+As a result, the pipeline was unable to perform live model inference. The evaluation therefore relied on the repository's offline fixtures and generated validation artifacts rather than live Anthropic API calls.

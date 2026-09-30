@@ -1,0 +1,74 @@
+[
+  {
+    "id": "POL-100",
+    "line": "auto",
+    "status": "approved",
+    "rationale": "complete confidence matching or exceeding criteria, human sign-off secured, seamless API sync",
+    "low_confidence_fields": [],
+    "human_conflicts": [],
+    "api_errors": [],
+    "confidence_scores": {
+      "line": 0.99,
+      "premium": 0.99,
+      "deductible": 0.99,
+      "limit": 0.99,
+      "endorsements": 0.99,
+      "exclusions": 0.99
+    }
+  },
+  {
+    "id": "POL-101",
+    "line": "home",
+    "status": "manual_audit",
+    "rationale": "low_confidence_fields=['premium']",
+    "low_confidence_fields": [
+      "premium"
+    ],
+    "human_conflicts": [],
+    "api_errors": [],
+    "confidence_scores": {
+      "line": 0.99,
+      "premium": 0.65,
+      "deductible": 0.99,
+      "limit": 0.99,
+      "endorsements": 0.99,
+      "exclusions": 0.99
+    }
+  },
+  {
+    "id": "POL-102",
+    "line": "umbrella",
+    "status": "manual_audit",
+    "rationale": "api_errors=['premium_matches_components_sum']",
+    "low_confidence_fields": [],
+    "human_conflicts": [],
+    "api_errors": [
+      "premium_matches_components_sum"
+    ],
+    "confidence_scores": {
+      "line": 0.99,
+      "premium": 0.99,
+      "deductible": 0.99,
+      "limit": 0.99,
+      "endorsements": 0.99,
+      "exclusions": 0.99
+    }
+  },
+  {
+    "id": "POL-103",
+    "line": "auto",
+    "status": "random_audit",
+    "rationale": "stratified drift-detection sample",
+    "low_confidence_fields": [],
+    "human_conflicts": [],
+    "api_errors": [],
+    "confidence_scores": {
+      "line": 0.99,
+      "premium": 0.99,
+      "deductible": 0.99,
+      "limit": 0.99,
+      "endorsements": 0.99,
+      "exclusions": 0.99
+    }
+  }
+]

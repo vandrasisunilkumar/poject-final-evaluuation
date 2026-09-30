@@ -1,0 +1,45 @@
+{
+  "extracted_information": {
+    "applicant": {
+      "primary_name": "Hartwell, J. and Hartwell, M.",
+      "secondary_name": "Hartwell, M.",
+      "ssn_suffix": null,
+      "birth_date": null,
+      "email_address": null,
+      "contact_number": null
+    },
+    "property_information": {
+      "location": "4827 Brookhaven Court, Fairhope, NC 28734",
+      "category": "single_family",
+      "category_notes": null,
+      "occupancy": "primary_residence",
+      "occupancy_notes": null,
+      "construction_year": 1998,
+      "living_area_sqft": 2400,
+      "monthly_hoa_fee": null,
+      "estimated_property_value": 410000.0
+    },
+    "loan_information": {
+      "requested_amount": 410000.0,
+      "repayment_term_months": null,
+      "annual_interest_rate": null,
+      "purpose": null,
+      "purpose_notes": null,
+      "program_name": null
+    },
+    "income_information": {
+      "monthly_salary": null,
+      "monthly_bonus": null,
+      "bonus_ytd": null,
+      "monthly_commission": null,
+      "monthly_overtime": null,
+      "other_monthly_earnings": null,
+      "declared_monthly_income": null
+    }
+  },
+  "verification": {
+    "status": "passed",
+    "is_data_consistent": true,
+    "observations": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "extracted_data": {
+    "applicant": {
+      "name": "Daniel R. Whitfield",
+      "co_applicant": null,
+      "last_four_ssn": null,
+      "date_of_birth": null,
+      "email_address": null,
+      "phone_number": null
+    },
+    "property_details": null,
+    "loan_details": null,
+    "income_details": {
+      "monthly_base_income": 5673.08,
+      "monthly_bonus_income": null,
+      "bonus_year_to_date": null,
+      "monthly_commission_income": null,
+      "monthly_overtime_income": null,
+      "additional_monthly_income": null,
+      "reported_monthly_income": null
+    }
+  },
+  "verification": {
+    "is_consistent": true,
+    "validation_issues": []
+  }
+}

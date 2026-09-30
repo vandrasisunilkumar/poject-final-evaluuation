@@ -1,0 +1,5 @@
+--- MYPY ---
+All 11 source files passed the type-checking process successfully.
+
+--- RUFF ---
+Every linting check completed successfully with no issues found.

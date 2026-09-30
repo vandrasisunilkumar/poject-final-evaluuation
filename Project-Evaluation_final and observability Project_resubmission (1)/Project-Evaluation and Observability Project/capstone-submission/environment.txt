@@ -1,0 +1,7 @@
+OS & Version: macOS Darwin 25.6.0 (arm64)
+Python Version: Python 3.11.5
+Execution Date: 2026-09-24
+
+Setup: A separate virtual environment was configured for each project. Dependencies were installed from the corresponding "solution/" directory using "pip install -e '.[dev]'". During the initial setup, a NumPy/SciPy compatibility issue was encountered with Python 3.14, so all final validation and evidence collection were completed using the supported Python 3.11 runtime.
+
+Live System Runs: No live Anthropic API executions were performed because a valid API key was unavailable. Consequently, all evidence was generated through the repository's offline, fixture-based workflow along with the resulting validation artifacts.

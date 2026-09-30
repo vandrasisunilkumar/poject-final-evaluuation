@@ -1,0 +1,34 @@
+{
+  "extracted_data": {
+    "applicant": {
+      "name": "Marcus T. Hollingsworth",
+      "co_applicant": null,
+      "last_four_ssn": null,
+      "dob": null,
+      "email_address": null,
+      "contact_number": null
+    },
+    "property_details": null,
+    "loan_details": null,
+    "income_details": {
+      "monthly_base_pay": 5416.67,
+      "monthly_bonus": 1250.0,
+      "bonus_year_to_date": null,
+      "monthly_commission": 2140.0,
+      "monthly_overtime": 385.5,
+      "additional_monthly_income": 450.0,
+      "declared_monthly_income": 10892.17
+    }
+  },
+  "verification": {
+    "is_consistent": false,
+    "issues_found": [
+      {
+        "field_name": "monthly_income_total",
+        "computed_value": 9642.17,
+        "reported_value": 10892.17,
+        "difference": -1250.0
+      }
+    ]
+  }
+}

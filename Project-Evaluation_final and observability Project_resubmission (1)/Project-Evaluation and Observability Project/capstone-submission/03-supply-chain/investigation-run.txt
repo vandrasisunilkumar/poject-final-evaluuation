@@ -1,0 +1,84 @@
+Notice
+
+A warning indicates that requests are being sent to the Hugging Face Hub without authentication. Supplying a valid HF_TOKEN will provide higher request limits and improve download performance.
+
+The model weights were loaded successfully (103/103 files).
+
+---
+
+Meridian Supply Chain Risk Assessment
+
+Verified Findings
+
+Average Lead Time (confirmed by multiple sources)
+
+Two independent sources report the same average lead time:
+
+- 12.0 days — Supplier Audit (2026-04-10)
+- 12.0 days — Logistics (2026-04-05)
+
+Metric| Reported Value| Date| Source
+Average Lead Time| 12.0 days| 2026-04-05| Logistics
+
+Defect Rate (PPM) (confirmed by multiple sources)
+
+Available reports indicate:
+
+- 180 ppm — Supplier Audit (2026-04-10)
+- 190 ppm — Internal Quality (2026-04-08)
+
+Product Quality Event (single-source evidence)
+
+Industry reporting states that Meridian Components voluntarily recalled one capacitor assembly batch during Q1 2026 after identifying the possibility of increased leakage current under high-temperature conditions.
+
+Field Return Rate (single-source evidence)
+
+Reported value:
+
+- 1.4% — Internal Quality (2026-04-08)
+
+Delayed Shipments (single-source evidence)
+
+Reported value:
+
+- 11 delayed shipments — Logistics (2026-04-05)
+
+Metric| Reported Value| Date| Source
+Late Shipments| 11| 2026-04-05| Logistics
+
+Port Disruption (single-source evidence)
+
+A dockworker strike lasting approximately 72 hours at the Port of Long Beach, beginning on March 16, 2026, disrupted inbound cargo for Meridian Components. As a result, customer deliveries were estimated to be delayed by five to nine days.
+
+Supplier Financial Risk (Requires Escalation)
+
+Reason for escalation: The supplier referenced in the report cannot be uniquely identified.
+
+An organization identified only as "Meridian" reportedly experienced financial difficulties, including emergency borrowing, overdue subcontractor payments, and the appointment of restructuring advisors. Additional verification is required to confirm whether this refers to Meridian Components.
+
+---
+
+Conflicting Information
+
+On-Time Delivery Performance (Escalation Required)
+
+Reason for escalation: Different sources report significantly different performance figures.
+
+Reported values:
+
+- 95.0% — Supplier Audit (2026-04-10)
+- 78.0% — Logistics (2026-04-05)
+
+Metric| Reported Value| Date| Source
+On-Time Delivery Rate| 78.0%| 2026-04-05| Logistics
+
+---
+
+Missing Information
+
+Production Capacity Utilization (Escalation Required)
+
+Reason for escalation: No verified source currently provides this metric.
+
+- Status: Data unavailable
+- Recommendation: Obtain production capacity utilization information from a reliable operational source before completing the assessment.

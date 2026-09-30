@@ -1,0 +1,75 @@
+Notice
+
+Requests to the Hugging Face Hub are currently being made without authentication. Configuring a valid HF_TOKEN can provide higher rate limits and improve download performance.
+
+Model initialization completed successfully, with all 103 weight files loaded.
+
+---
+
+Meridian Supply Chain Risk Assessment
+
+«Data Availability: Logistics information could not be retrieved because the source request timed out.»
+
+Confirmed Findings
+
+Average Lead Time (supported by one available source)
+
+Reported value:
+
+- 12.0 days — Supplier Audit (2026-04-10)
+
+Defect Rate (PPM) (validated by two sources)
+
+Available reports indicate:
+
+- 180 ppm — Supplier Audit (2026-04-10)
+- 190 ppm — Internal Quality (2026-04-08)
+
+Product Quality Event (single-source evidence)
+
+Industry reporting notes that Meridian Components voluntarily recalled a single capacitor assembly batch during Q1 2026 after identifying the possibility of increased leakage current under thermal stress.
+
+Field Return Rate (single-source evidence)
+
+Reported value:
+
+- 1.4% — Internal Quality (2026-04-08)
+
+On-Time Delivery Performance (single-source evidence)
+
+Reported value:
+
+- 95.0% — Supplier Audit (2026-04-10)
+
+Port Operations Disruption (single-source evidence)
+
+A dockworker strike lasting approximately 72 hours at the Port of Long Beach, beginning on March 16, 2026, interrupted inbound shipments for Meridian Components. The disruption was estimated to delay customer deliveries by five to nine days.
+
+Supplier Financial Risk (Escalation Required)
+
+Reason for escalation: The supplier referenced in the report cannot be uniquely identified.
+
+A business identified only as "Meridian" was reported to have experienced financial challenges, including emergency borrowing, delayed subcontractor payments, and the engagement of restructuring advisors. Additional confirmation is required to determine whether this refers to Meridian Components.
+
+---
+
+Conflicting Information
+
+No conflicting data was identified among the available sources.
+
+---
+
+Missing Information
+
+Late Shipment Count
+
+Status: Unavailable
+
+The logistics data source could not be accessed because the request timed out, so the number of delayed shipments could not be verified.
+
+Production Capacity Utilization (Escalation Required)
+
+Reason for escalation: No reliable source currently provides this metric.
+
+- Status: Data unavailable.
+- Recommendation: Obtain production capacity utilization information from an authoritative operational source before completing the assessment.

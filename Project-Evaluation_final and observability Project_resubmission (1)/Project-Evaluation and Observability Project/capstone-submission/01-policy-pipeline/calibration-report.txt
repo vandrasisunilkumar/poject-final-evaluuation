@@ -1,0 +1,7 @@
+auto      premium_amount   n=3   conf=0.95   acc=1.00   brier=0.003
+home      deductible       n=1   conf=0.90   acc=1.00   brier=0.010
+umbrella  exclusions       n=2   conf=0.93   acc=0.00   brier=0.865
+
+OVERALL Brier Score = 0.291
+
+The calibration results indicate that the auto/premium_amount and home/deductible slices achieved perfect accuracy with very low Brier scores, reflecting strong calibration. In contrast, the umbrella/exclusions slice shows high confidence (0.93) but zero observed accuracy, resulting in a much higher Brier score (0.865). Across all evaluated slices, the overall Brier score is 0.291.
